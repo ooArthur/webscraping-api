@@ -14,7 +14,7 @@ Este projeto é um exercício de treino onde tentei desenvolver uma API de web s
 
 1. Clone o repositório para sua máquina local:
 ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Ath3Dev/webscraping-api.git
 ```
 
 2. Navegue até o diretório do projeto:
